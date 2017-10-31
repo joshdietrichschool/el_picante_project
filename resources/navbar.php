@@ -16,14 +16,14 @@
 
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="menu.html">Menu</a></li>
-            <li><a href="location.html">Location</a></li>
-            <li><a href="hours.html">Hours</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li class="active"><a href="about_us.html">About</a></li>
-            <li><a href="login.html">Login</a></li>
-            <li><a href="signup.html">Sign Up</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="menu.php">Menu</a></li>
+            <li><a href="location.php">Location</a></li>
+            <li><a href="hours.php">Hours</a></li>
+            <li><a href="contact.php">Contact</a></li>
+            <li><a href="about_us.php">About</a></li>
+            <li><a href="login.php">Login</a></li>
+            <li><a href="signup.php">Sign Up</a></li>
           </ul>
         </div>
       </div>

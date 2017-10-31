@@ -26,6 +26,7 @@
 
 <body>
   <!-- Navigation Bar -->
+    <?php include('../resources/navbar.php'); ?>
     
 
  <!-- Main content -->
@@ -45,9 +46,7 @@
     <a href="https://www.google.com/maps/place/123+Fake+Dr,+Luray,+VA+22835/@38.7061942,-78.5086935,17z/data=!3m1!4b1!4m5!3m4!1s0x89b4525bc2304f89:0xef386d205eb572a4!8m2!3d38.70619!4d-78.5065048"> 123 Fake Dr. Luray, VA 22835</a>  
     </section>
 
-    <footer>
-    <p> &copy;2017, El Picante logos and materials.</p>
-    </footer>
+   <?php include('../resources/footer.php'); ?>
 
     </div>
     </div>

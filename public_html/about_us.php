@@ -26,7 +26,7 @@
 
 <body>
    <!-- Navigation Bar -->
-    <?php include('navbar.php'); ?>
+    <?php include('../resources/navbar.php'); ?>
 
     <!-- Main content -->
     <div class="container">
@@ -44,9 +44,7 @@
   <p>Come join us anytime you'd like!</p>
   </section>
 
-   <footer>
-   <p> &copy;2017, El Picante logos and materials.</p>
-   </footer>
+   <?php include('../resources/footer.php'); ?>
 
       </div>
       </div>
